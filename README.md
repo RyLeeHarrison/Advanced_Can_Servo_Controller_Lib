@@ -1,5 +1,8 @@
 # Advanced CAN Servo Controller Library  
 **MKS-SERVO Driver**
+```
+You can find my Confetti Arduino library that is paired with this in my repos, or convert it to your CAN lib of choice.
+```
 
 This library provides a robust and comprehensive implementation of the standards defined in the *MKS SERVO42 & 57D CAN User Manual V1.0.4*.  
 
